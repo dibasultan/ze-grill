@@ -1,0 +1,6 @@
+{
+  "name": "ZēGrill Phase 6 DHA",
+  "description": "An elegant ordering, seat reservation, and order tracking platform for ZēGrill DHA Phase 6 Lahore, with integrated payment options, drive-thru, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
